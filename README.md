@@ -1,33 +1,46 @@
-# lab-02
+# lab-03
 
-Number and name of feature: Feature one - Display images 
+Collaborator: Anthony Johnson
 
-Estimate of time needed to complete: 1 hour
+Number and name of feature: Pagination
 
-Start time: 215
+Estimate of time needed to complete: 45min
 
-Finish time: 515
+Start time: 1433
 
-Actual time needed to complete: 3 hours
+Finish time: 1600
 
-Number and name of feature: Feature two - Filter images 
+Actual time needed to complete: 90m
 
-Estimate of time needed to complete: 45 minutes
 
-Start time: 530
+Number and name of feature: Templating
 
-Finish time: 710
+Estimate of time needed to complete: 1 hr
 
-Actual time needed to complete: 1 hr 40 min
+Start time: 1600
 
-Number and name of feature: Feature three - Style the application
+Finish time: 1630
 
-Estimate of time needed to complete: 15 min
+Actual time needed to complete: 30m
 
-Start time: 640
 
-Finish time: 655
+Number and name of feature: Styling with Flexbox
 
-Actual time needed to complete: 15
+Estimate of time needed to complete: 30m
 
-Collaborator: Brendan Smith
+Start time: 1630
+
+Finish time: 1645
+
+Actual time needed to complete: 15m
+
+
+Number and name of feature: Sort the images
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 1645
+
+Finish time: 1715
+
+Actual time needed to complete: 30m 
